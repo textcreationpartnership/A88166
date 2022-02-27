@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copie of a letter, written by John Lilburne Leut. Collonell. To Mr. William Prinne Esq. (Upon the coming out of his last booke, intituled Truth triumphing over falshood, antiquity over novelty) in which he laies down five propositions, which he desires to discusse with the said Mr. Prinne.</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88166</idno>
+            <idno type="STC">Wing L2092</idno>
+            <idno type="STC">Thomason E24_22</idno>
+            <idno type="STC">ESTC R21507</idno>
+            <idno type="EEBO-CITATION">99871438</idno>
+            <idno type="PROQUEST">99871438</idno>
+            <idno type="VID">154966</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88166)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154966)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 5:E24[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copie of a letter, written by John Lilburne Leut. Collonell. To Mr. William Prinne Esq. (Upon the coming out of his last booke, intituled Truth triumphing over falshood, antiquity over novelty) in which he laies down five propositions, which he desires to discusse with the said Mr. Prinne.</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Annotation on Thomason copy: "Jan: 15 1644 London:".</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prynne, William, 1600-1669. --  Truth triumphing over falshood, antiquity over novelty.</term>
+               <term>Freedom of religion --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:154966:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 32 -->
+            <head>A COPIE OF A LETTER, Written by <hi>John Lilburne</hi> Leut. Collonell. To Mr. <hi>William Prinne</hi> 
+               <abbr>Eſq</abbr> (UPON THE COMING OUT OF HIS LAST BOOKE, IN<g ref="char:EOLhyphen"/>tituled <hi>Truth triumphing over Falſlhood, Antiquity over Novelty</hi>) In which he laies down five Propoſitions, which he deſires to diſcuſſe with the ſaid Mr. <hi>Prinne.</hi>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>YOU and I have both been <hi>Sufferers,</hi> by the hands of the <hi>Prelates,</hi> the comnon and open Enemies of Chriſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> King<g ref="char:EOLhyphen"/>dome; and the eyes of the people of God are therefore the more upon us, and are ſubject with leſſe jealouſie to re<g ref="char:EOLhyphen"/>ceive thoſe things that come from us for truth, not immitating the <hi>noble Bereans,</hi> who dayly ſearched the Scripture, to ſee whether thoſe things they heard, were according thereunto or no, <hi>Acts</hi> 17.11. the <hi>Law and the Teſtimony of Chriſt</hi> being the ſtr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight Rule, by which we are to walke eſpeacially in matters of worſhip, and whoſoever he be that practices and ſpeakes not according to this Rule, <hi>it is becauſe there is no light of truth in him, Eſa.</hi> 8.20. I have ſeen ſome of your late wri<g ref="char:EOLhyphen"/>tings,
+<pb n="2" facs="tcp:154966:2"/>
+               <!-- PDF PAGE 33 -->
+which a little diving into, I have found them full of bitter and unſavoury Language againſt the poore Saints of God, and the un<g ref="char:EOLhyphen"/>ſpotted wais of Jeſus Chriſt, and finding your Confidence very great but your Arguments very weake and unſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>und having received a Ta<g ref="char:EOLhyphen"/>lent from the Lord, I conceived my ſelfe bound in Conſcience to im<g ref="char:EOLhyphen"/>ploy it, and lay it out for my Ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers beſt advantage) and I was de<g ref="char:EOLhyphen"/>termined ſome weekes ſince, to have writ you a few lines in a pub<g ref="char:EOLhyphen"/>lique way, and to have told you, <hi>you erre not knowing the Scriptures. Math.</hi> 22.29. (but being that you, and the <hi>Blacke-Coate?</hi> in the <hi>Synod</hi>) have not dealt fairly with your Antagoniſts in ſtopping the <hi>Preſſe</hi> againſt us, while things are in debate, yea robbing us of our Liberty (as we are Subjects) in time of freedome, when the <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> is ſitting, who are ſufficiently able to puniſh that man (what<g ref="char:EOLhyphen"/>ſoever he be) that ſhall abuſe his penne. So that whill we are with the hazard of our deareſt lives, fighting for the <hi>Subjects Liberty,</hi> we are brought into <hi>Egiptian</hi> bonds in this and other particulars, by the <hi>Blacke-Coates,</hi> who I am affraid, will prove more cruell <hi>Task<g ref="char:EOLhyphen"/>maſters</hi> then their dear fathers the <hi>Biſhops:</hi> who Cowardly ſit at home, in my apprehenſion, for no other end but to breed faction and diviſion amongſt the well affected to the <hi>Parliament,</hi> promo<g ref="char:EOLhyphen"/>ting thereby their owne intereſt, which is <hi>Lazines, Pride, Co<g ref="char:EOLhyphen"/>vetouſnes</hi> and <hi>Domination,</hi> endevouring to lay lower then the duſt a generation of men whom they falſely call Sectaryes, that have in the uprightneſſe of their hearts without <hi>Syodianlike</hi> ends, ventred all they have in the world for the good of the <hi>Parliament,</hi> and the Common-wealth of England, and who may bid defiance to all their Adverſaries that brand them with unfaithfulnes. ſo that by mean<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of which, I haue not been able that way yet, to accompliſh my ear<g ref="char:EOLhyphen"/>neſt deſire: and truly it argues no manhood nor valour in you nor the <hi>Blacke-Coates,</hi> by force to throw us downe and ty our hands, &amp; then to fall upon us to beat and buffet us, for if you had not beene men that had been affraid of your cauſe, you would have been wil<g ref="char:EOLhyphen"/>ling to have fought and contended with us upon even ground and equall termes, namely that the Preſſe might be as open for us as for you, and as it was at the beginning of this <hi>Parliament,</hi> which I con<g ref="char:EOLhyphen"/>ceive the <hi>Parliament</hi> did of purpoſe, that ſo the freeborne <hi>Engliſh</hi>
+               <pb n="3" facs="tcp:154966:2"/>
+               <!-- PDF PAGE 33 -->
+Subjects might enjoy their Liberty and Priviledge, which the Biſh<g ref="char:EOLhyphen"/>ops had learned of the <hi>Spaniſh Inquiſition</hi> to rob them of, by looking it up under the Key of an <hi>Imrpimatur,</hi> in whoſe tyrannicall ſteps the Synod treades, ſo that you and they thinke you may raile at us <hi>own privilegio,</hi> and ranke us amongſt the worſt and baſeſt of men, as root<g ref="char:EOLhyphen"/>ers up of Parliaments and diſturbers of States and Common welthes, and ſo thinke to carry it away without controule, but it may be you will be miſtaken, for though wee cannot print ſo faſt as you, we can ſpeake and lay downe as ſtrong Arguments for our ſelves, as you can for your ſelves, and therefore being deſirous to try a fall with you, though one of your freinds not long ſince told me, <hi>there was as great diſproportion betwixt you and me, to write upon controverting the things of God, as there is betwixt a tall Ceder and a litle ſhrub:</hi> un<g ref="char:EOLhyphen"/>to which I replyed, <hi>goe you, and tell the tall Ceder, the litle Shrub will have about with him:</hi> And therefore, that I may be as good as my word, I ſend you theſe enſuing Propoſitions, upon which I will diſpute with you, hand to hand before any Auditory in and about the City of <hi>London</hi> when and where you will chuſe, giving me foure or five dayes warning before hand.</p>
+            <p n="1">Firſt, <hi>That the Ordinances, Lawes, Rights and Ceremonies of the Church of the Jewes were types and figures, which were only to laſt and endure till the coming of Chriſt, which he by his death did aboliſh, Gen.</hi> 49.10. <hi>John</hi> 19.30. <hi>Acts</hi> 15.24.29. <hi>&amp;</hi> 21.21:28. <hi>Heb.</hi> 7.11:12. <hi>&amp;</hi> 10.1. <hi>and he himſelfe with his Inſtitutions in the New Teſtament are the Antitypes of them, Acts</hi> 3.22. <hi>Heb.</hi> 1.8. <hi>&amp;</hi> 6.20. <hi>&amp;</hi> 7.17.18.19. <hi>&amp;</hi> 8.1 2.6. <hi>&amp;</hi> 9.11.12.</p>
+            <p n="2">Secondly, <hi>That Jeſus Chriſt being appoynted by God his Father to be Mediatour, hath a Kingdome given unto him, Dan.</hi> 2.13.14. <hi>Mat.</hi> 2.2 <hi>&amp;</hi> 28.18. <hi>Luke</hi> 1.32.33. <hi>Heb.</hi> 1.8. <hi>which he hath erected, and ſet vp in the world, amongſt his Saints, where viſibly and ſpiritually he governeth, ruleth and dwelleth, Pſal.</hi> 2.6.22.27.28: <hi>and</hi> 46.4: <hi>and</hi> 48.1. <hi>&amp;c. &amp;</hi> 132.13:14. <hi>Eſa.</hi> 6.9 7. <hi>&amp;</hi> 33.23. <hi>and according to that truſt</hi>
+               <pb n="4" facs="tcp:154966:3"/>
+               <!-- PDF PAGE 34 -->
+the Father hath repoſed in him <hi>Acts</hi> 3.22.23. <hi>he hath been faithfull to every thing requred of him,</hi> Heb. 3.25. <hi>compared with</hi> Exod. 39.43. <hi>and unto this his viſible Kingdome by his laſt Will and Teſtament he hath bequeathed perfect and compleate Lawes, which are unalterable and unchangable, in all times, ages and places by any of the ſonnes of men, Acts</hi> 1.3. 2 <hi>Theſ.</hi> 2.15. 1 <hi>Tim.</hi> 6.13.14.20. 2 <hi>Tim</hi> 3.15.16.17. <hi>Heb.</hi> 10.28.29. &amp; 12<g ref="char:punc">▪</g>25.</p>
+            <p n="3">
+               <hi>Thirdly, that the matter, forme, Lawes, Worſhip, Ordinances and Ad<g ref="char:EOLhyphen"/>miniſtrations of this Kingdome are not carnall, nor of this world, but all and every one of them ſpirituall, John.</hi> 4.22.23. <hi>&amp;</hi> 18.36. <hi>Act.</hi> 1.15. <hi>&amp;</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.41.47. <hi>&amp;</hi> 11.23.24. <hi>Rom.</hi> 1.7. 1 <hi>Cor.</hi> 1.2. <hi>&amp; ch.</hi> 5: 2 <hi>Cor.</hi> 2.6.7.8.</p>
+            <p n="4">
+               <hi>Fourthly, that no Parliament, Councell, Synod, Emperor, King, nor Majeſtrate hath any ſpirituall Authority, or jurisdiction over this King<g ref="char:EOLhyphen"/>dome, or the Subjects thereof, Mat.</hi> 20.25.27. 1 <hi>Cor.</hi> 4.5. <hi>Epheſ.</hi> 1.21.22 23. <hi>and</hi> 5.24.25. <hi>Col.</hi> 4.17. 1 <hi>Pet.</hi> 6.5.3. <hi>Rev.</hi> 17.17.</p>
+            <p n="5">
+               <hi>Fiftly, that to perſecute for conſcience is not of nor from God, but of and from the Divell, and Antichriſt, Eſa.</hi> 2.3.4. <hi>&amp;</hi> 11.6:7:9. <hi>Micah</hi> 4.2.3. <hi>Luke</hi> 9.54.55, 2 <hi>Cor.</hi> 10.4. 1 <hi>Tim.</hi> 1.20. <hi>Rev.</hi> 13.2.4.15 16.17.</p>
+            <p>
+               <hi>Sir,</hi> In your laſt Booke that you put out, you ſpend a great deale of paines in citing old ruſty Authours, to prove that Kings, Coun<g ref="char:EOLhyphen"/>cels, Synods and States have for ſo many hundred yeares medled with matters of Religion, I grant you they have; but I demaund of you, by what Right, or by what Authority out of the Word of God they have ſo done? Hath God the Father, or Jeſus Chriſt his Son gi<g ref="char:EOLhyphen"/>ven them any allowance in thi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? Or have they not hereby rather fulfilled the Propheſies of the Scripture, which ſaith, (<hi>Rev.</hi> 17.17.) that <hi>the Kings of the Earth ſhall give their power unto the Beaſt, till the Word of God be fulfilled,</hi> which they have done in aſſiſting the <hi>Pope,</hi> to joyne the <hi>Eccleſiaſticall</hi> and <hi>Civill State</hi> together, making the gol<g ref="char:EOLhyphen"/>den Lawes of Chriſt, to depend upon the leaden Lawes of man; yea, upon ſuch Lawes, as was juſt ſutable to their tyrannicall luſts, and which might the moſt advance their wicked ends and deſignes, and in the doing of this, they have ſet up a perfect Antichriſt againſt Gods Chriſt; yea, <hi>England</hi> is not free from this; for though King <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> the <hi>right</hi> did ſhake of the <hi>Popes Supremacy,</hi> yet by the advice of the
+<pb n="5" facs="tcp:154966:3"/>
+               <!-- PDF PAGE 34 -->
+Clergie, the ſworne enemies of Jeſus Chriſt, he aſſumed the ſame, calling himſelfe <hi>Head in all cauſes Eccleſiaſticall and Civill,</hi> and ſo though he juſled out the Pope, he ſet himſelfe in the Throne of Chriſt, and his Succeſſours have done the ſame, for oppoſing of which, the Saints that were burnt in Queen <hi>Maries</hi> dayes have not only ſmarted, but alſo thoſe that were hanged and murdered in Pri<g ref="char:EOLhyphen"/>ſons in Queen <hi>Elizabeths</hi> dayes, and thoſe that were baniſhed and deſtroyed in King <hi>James</hi> his dayes, and my ſelfe and many others, that have ſuffvred worſe then death in King <hi>Charles</hi> his dayes, and this is the great Contrverſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that God contends with the whole Earth for, and for which God will make the greateſt of Princes and States to <hi>taſt a Cup of trembling,</hi> yea, and to <hi>drinke the dregs of his fu<g ref="char:EOLhyphen"/>ry and wrath;</hi> for he will give people and Nations for his Saints, <hi>Eſa.</hi> 43.3.4.14. And if <hi>England</hi> drinke yet deeper of this Cup, amongſt other cauſes, they may thanke Mr. <hi>Prinne</hi> for it who hath incited them to wage war with the King of Saints, (and his redeemed ones) who will <hi>daſh all the Nations of the Earth in peeces</hi> in being revenged of them, for that which they hove done unto them already in this par<g ref="char:EOLhyphen"/>ticular, <hi>Rev.</hi> 18. <hi>ch.</hi> &amp; 19.1.2. For <hi>Sir,</hi> let me tell you, it is the incom<g ref="char:EOLhyphen"/>municable Prerogative of Jeſus Chriſt alone to be King of his Saints, and Law-giver to his Church and people, and to raigne in the ſoules and conſciences of his choſen ones, it being too high a throne for all the creatures in the world to raigne in; and therefore, were your eyes but open, it would make you quake and tremble, to conſider what you have done, in endeavouring to ſet the Potentates of the Earth together by the eares with Chriſt (who is to rule all Nations, <hi>Rev.</hi> 12.5.) to plucke his Crowne from his head, his Scepter out of his hand, and his Perſon out of his Throne of State, that his Father hath given him to raigne gloriouſly in.</p>
+            <p>Oh Sir! conſider the time is not long, before Jeſus Chriſt will come againe in glory tryumphantly, and ſay it out of his own mouth before the eyes of the ſonnes of men, <hi>bring thoſe mine enemies before me, that will not have me to rule over them, that J may ſlay them, Luke</hi> 19.17.</p>
+            <p>Sir, If your Poſitions be true, <hi>that there is no rule left in the world, how we may worſhip God, but that Kings and States may ſet up what
+<pb n="6" facs="tcp:154966:4"/>
+                  <!-- PDF PAGE 35 -->
+Religion<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they pleaſe,</hi> or may mould it to the maners of their people; <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Queen <hi>Mary</hi> did juſtifiably in burning the Saints in her dayes that would not ſtoope and ſubmit to that Religion ſhe and her Par<g ref="char:EOLhyphen"/>liament had ſet up: Truly, had <hi>I</hi> not ſeen your name to your Bookes, I ſhould rather have judged them a Papiſts or a Jeſuites then Mr. <hi>Prinnes,</hi> and without doubt the Pope when he ſees them will Canno<g ref="char:EOLhyphen"/>nize you for a Saint, for throwing downe his enemie Chriſt, who you ſay hath been leſſe faithfull then <hi>Moſes,</hi> and ſo had need of the Pope, or ſome others to ſupply what he hath been deficient in; Surely you have given away your <hi>ears,</hi> &amp; ſuffered as a buſie body in op<g ref="char:EOLhyphen"/>poſing the King and the Prelates; without all doubt, all is not gold that gliſters; for were you not a man, that had more then truth to looke after, namely your owne ends and particular intereſt, which I am af<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>raid you ſtrive more to ſet up then a publike good, you ſhould rather importuned the Parliament, to have continued their favours and reſpects to that people, that cannot proſtrate their conſciences to mans deviſes though never ſo great and famous; (and who yet with their bodies and eſtates to the utmoſt of their power, yea and divers of them beyond their abilities) have done the Parliament as ſinceare, upright, faithfull and good ſervice as either your ſelfe or a<g ref="char:EOLhyphen"/>ny generation of men in <hi>England</hi> whatſoever they be) then to en<g ref="char:EOLhyphen"/>force them to deſtroy them: But truly the Son of God, and his ſaints (thoſe beloved <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ewels of his) are but a litle beholden to you, that will not ſuffer his ranſomſed ones to enjoy the Liberty of their Conſcience to ſerve their Lord and King, that hath bought them with his owne blood, [are you not in this as cruell a <hi>Taskmaſter</hi> as <hi>Pha<g ref="char:EOLhyphen"/>raoh</hi>] nor to have footing in the Land of their Nativity, though Chriſt himſelfe hath given them a true right to all things preſent in this world, and all things in that is to come, 1 Cor. 2.21.22.23. and they themſelves (many thouſand of them) have endeavoured more then your ſelfe to redeem their native Countrey from bondage and ſlavery with their deareſt blood: And therefore I ſay, the Lord judge betwixt you and us in this particular.</p>
+            <p>
+               <hi>Sir,</hi> It may be inſtead of ſatisfying my deſire, you'll run and com<g ref="char:EOLhyphen"/>plaine to the Parliament; and preſſe them upon their Covenant to take vengance upon me, if you doe I weigh it not; for I bleſſe God
+<pb n="7" facs="tcp:154966:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 35 -->
+I am fitted to doe, or ſuffer whatſoever the Parliament ſhall impoſe upon me, but if you do, take theſe two along with you.</p>
+            <p>Firſt, <hi>That I am not againſt the Parliaments ſetting up a S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te-Go<g ref="char:EOLhyphen"/>vernment for ſuch a Church as they ſhall thinke fit, to make the genera<g ref="char:EOLhyphen"/>lity of the Land members of, for I for my part leave them to themſelves, to doe what they ſhall thinke good, ſo that they leave my Conſcien<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e free to to the Law and Will of my Lord and King.</hi>
+            </p>
+            <p>Socondly, <hi>If you put them in mind of their Covenant, tell them, I thinke they have ſworne to root out all Popery, and therefore have lately aboliſhed the</hi> Common Prayer <hi>(that great Idoll) but yet have eſtabliſhed</hi> Tythes, <hi>&amp;c. the very root and ſupport of popery, which I humbly conceive, is a con<g ref="char:EOLhyphen"/>tradiction to their</hi> Covenant, <hi>and which wilbe a greater ſnaire then the</hi> Common Prayer <hi>to many of the pretious conſciences of Gods people, wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe duty is in my judgement, to dye in a priſon before they act or ſtoop unto ſo diſhonourable a thing as this is to their Lord and Maſter, as to maintaine the</hi> Blacke-coates <hi>with</hi> Tythes, <hi>whom they looke upon as the profeſſed enemies of their Annoynted Chriſt, he that pays Tythes, is bound to the whole Law of Tythes, in which there was a</hi> Lambe <hi>to be brought for a</hi> Sin-offering, <hi>which is aboliſhed; alſo he that was to take Tythes, was one that was to offer ſacrifice dayly for ſin, which if any do ſo now it is to deny Chriſt come in the fleſh, and to be the alone ſacrifice for ſin by his death, and ſo overthrow all our comfort, joy and hope.</hi> So deſiring to receive your Anſwer to the things I propound to you, I reſt</p>
+            <closer>
+               <dateline>
+                  <hi>LONDON,</hi> 
+                  <date>this 7. <hi>Jan.</hi> 1645.</date>
+               </dateline>
+               <signed>Yours more then you are the Truthes <hi>JOHN LILBURNE.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
